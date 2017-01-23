@@ -1,0 +1,1 @@
+scp -r -i $WORKSPACE/Broker1.pem $WORKSPACE/code/* ubuntu@172.30.1.242:/home/ubuntu/DevOps/
